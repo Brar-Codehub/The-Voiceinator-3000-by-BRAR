@@ -66,6 +66,7 @@ h1 {
 
 textarea {
   height: 20rem;
+  border: 1px solid black;
 }
 
 input[type="select"] {
